@@ -8088,7 +8088,7 @@ h1, h2, h3, h4, h5,
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #95adbe; }
+      color: #0299c7; }
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
         width: 100%; }
     @media (max-width: 991.98px) {
@@ -8136,7 +8136,7 @@ h1, h2, h3, h4, h5,
         background: #95adbe;
         border-radius: 4px; } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #95adbe; }
+    color: #0299c7; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.active > a {
         color: #fff; } }
@@ -8189,8 +8189,8 @@ h1, h2, h3, h4, h5,
     .social-media p a span {
       color: #4d4d4d; }
     .social-media p a:hover {
-      background: #95adbe;
-      border-color: #95adbe; }
+      background: #0299c7;
+      border-color: #0299c7; }
       .social-media p a:hover span {
         color: #fff; }
 
@@ -8557,7 +8557,7 @@ textarea.form-control {
     top: 0;
     left: 0;
     font-size: 40px;
-    color: #ff7a5c;
+    color: #0299c7;
     z-index: -1; }
 
 .staff {
@@ -8691,7 +8691,7 @@ textarea.form-control {
     .book-wrap .text .price {
       font-family: "Lora", serif;
       font-weight: 700;
-      color: #ff7a5c; }
+      color: #0299c7; }
       .book-wrap .text .price.sale {
         color: rgba(0, 0, 0, 0.4) !important; }
     .book-wrap .text h2 {
@@ -8909,7 +8909,7 @@ textarea.form-control {
   font-size: 14px;
   display: inline-block;
   margin-bottom: 0;
-  color: #ff7a5c;
+  color: #0299c7;
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
