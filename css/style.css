@@ -8150,7 +8150,7 @@ h1, h2, h3, h4, h5,
   margin-bottom: 30px;
   font-family: "Lora", serif; }
   .navbar-brand span {
-    color: #ff7a5c; }
+    color: #00b8f1; }
   .navbar-brand small {
     display: block;
     font-size: 13px;
@@ -8487,7 +8487,7 @@ h1, h2, h3, h4, h5,
       width: 40px;
       height: 40px;
       border-radius: 50%;
-      background: #ff7a5c;
+      background: #00b8f1;
       content: '';
       z-index: -1;
       -moz-transition: all 0.3s ease;
@@ -8504,7 +8504,7 @@ h1, h2, h3, h4, h5,
     .services-2 h2 a {
       color: #000000; }
   .services-2:hover .icon {
-    background: #95adbe;
+    background: #00b8f1;
     -webkit-box-shadow: 0px 4px 15px -6px rgba(0, 0, 0, 0.15);
     -moz-box-shadow: 0px 4px 15px -6px rgba(0, 0, 0, 0.15);
     box-shadow: 0px 4px 15px -6px rgba(0, 0, 0, 0.15); }
