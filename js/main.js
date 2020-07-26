@@ -247,34 +247,9 @@ if (window.pageYOffset > sticky) {
 	
 }
  
-if($(window).width() < 992) { 
 
-	// When the user scrolls the page, execute myFunction
-	window.onscroll = function() {myFunction2()};
-
-	// Get the header
-	var header = document.getElementById("ftco-navbar")
-	
-	
-	// Get the offset position of the navbar
-	var sticky = header.offsetTop;
-	
-	
-	// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-	function myFunction2() {
-	if (window.pageYOffset > sticky) {
-		header.classList.add("sticky img");
-		
-		
-		 } else {
-		header.classList.remove("sticky img");
-		
-	
-		 }
-		
-	}
 	 
-}
+
 
 
 
