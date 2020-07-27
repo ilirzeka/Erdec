@@ -481,8 +481,12 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
+<<<<<<< HEAD
   margin-left: -15px;
   justify-content: center;}
+=======
+  margin-left: -15px; }
+>>>>>>> parent of 9e6b90f... removed maps
 
 .row1 {
   display: -webkit-box;
