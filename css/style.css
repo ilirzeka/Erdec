@@ -481,12 +481,9 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-<<<<<<< HEAD
   margin-left: -15px; }
-=======
   margin-left: -15px;
   justify-content: center; }
->>>>>>> parent of 4c54782... Update style.css
 
 .row1 {
   display: -webkit-box;
