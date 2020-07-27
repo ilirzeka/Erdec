@@ -481,7 +481,8 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -15px; }
+  margin-left: -15px;
+  justify-content: center;}
 
 .row1 {
   display: -webkit-box;
@@ -8935,7 +8936,7 @@ textarea.form-control {
 .img-2,
 .blog-img,
 .user-img {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
 
