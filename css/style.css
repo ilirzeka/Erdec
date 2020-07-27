@@ -9289,17 +9289,14 @@ textarea.form-control {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: #b6b5b0;
+    background: #95adbe;
     margin: 0 auto;
     margin-bottom: 20px; }
     .dbox .icon span {
       font-size: 30px;
-      color: rgb(250, 250, 250); }
+      color: #fff; }
   .dbox .text {
     width: 100%; }
-  .dbox .icon:hover {
-    background: #0299c7;
-  }
 
 .contactForm .label {
   color: #95adbe !important;
