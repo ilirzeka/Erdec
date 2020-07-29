@@ -9306,9 +9306,9 @@ textarea.form-control {
   background: #0299c7;
 }
 
-/* .dbox .icon:active {
-  background: #0299c7;
-} */
+.dbox .icon:visited {
+  background: #95adbe;
+}
 
 .contactForm .label {
   color: #95adbe !important;
