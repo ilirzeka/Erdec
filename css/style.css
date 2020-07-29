@@ -9301,6 +9301,15 @@ textarea.form-control {
 .dbox .icon:hover {
   background: #0299c7
 }
+
+.dbox .icon:focus {
+  background: #0299c7;
+}
+
+.dbox .icon:active {
+  background: #0299c7;
+}
+
 .contactForm .label {
   color: #95adbe !important;
   text-transform: uppercase;
