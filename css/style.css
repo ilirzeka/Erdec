@@ -9298,6 +9298,9 @@ textarea.form-control {
   .dbox .text {
     width: 100%; }
 
+.dbox .icon:hover {
+  background: #0299c7
+}
 .contactForm .label {
   color: #95adbe !important;
   text-transform: uppercase;
