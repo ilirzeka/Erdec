@@ -9637,7 +9637,7 @@ textarea.form-control {
   position: fixed;
   top: 0;
   width: 100%;
-  border-bottom: 1px solid gray;
+  box-shadow: 0 0.5px 8px 1px;
 }
 
 .sticky img {
